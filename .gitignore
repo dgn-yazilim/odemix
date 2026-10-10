@@ -1,0 +1,5 @@
+uploads/
+.user.ini
+.DS_Store
+config.local.php
+*.bak

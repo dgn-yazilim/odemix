@@ -1,0 +1,4 @@
+; Online başvuru evrak yüklemeleri için (galeri listesi 22+ dosya): sunucuda php.ini / php-fpm havuzunda da ayarlanmalı
+max_file_uploads = 60
+post_max_size = 300M
+upload_max_filesize = 20M
